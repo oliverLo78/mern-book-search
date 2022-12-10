@@ -1,0 +1,29 @@
+{
+  "name": "mern-book-search",
+  "version": "1.0.0",
+  "description": "This week, you’ll take starter code with a fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Apollo Server. The app was built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^13.5.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliverLo78/mern-book-search.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oliverLo78/mern-book-search/issues"
+  },
+  "homepage": "https://github.com/oliverLo78/mern-book-search#readme"
+}
