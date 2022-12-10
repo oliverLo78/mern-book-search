@@ -27,8 +27,11 @@ SO THAT I can keep a list of books to purchase
 ## Acceptance Criteria
 
 GIVEN a book search engine
+
 WHEN I load the search engine
+
 THEN I am presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button
+
 WHEN I click on the Search for Books menu option
 THEN I am presented with an input field to search for books and a submit button
 WHEN I am not logged in and enter a search term in the input field and click the submit button
