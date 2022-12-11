@@ -2,7 +2,7 @@ const { User } = require('../models');
 
 const resolvers = {
   Query: {
-    profiles: async () => {
+    profile: async () => {
       return Profile.find();
     },
 
