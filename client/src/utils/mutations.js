@@ -1,7 +1,7 @@
 import { gql } from '@apollo/client';
 
-export const GET_ME = gql`
-  query allme {
+export const LOGIN_USER = gql`
+  mutation loginUser() {
     me {
       _id
       name
