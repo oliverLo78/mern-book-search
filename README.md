@@ -89,12 +89,19 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 While building this project I learned to: 
 
   -The MERN stack has a three-layer architecture based on the Model-View-Controller design pattern. Each interconnected layer performs a specific function
+  
   -ReactJS is a front-end JavaScript library that allows us to turn reusable components into interactive user interfaces
+  
   -The client layer controls what the user sees and how the user interacts with data. 
+  
   -In the client layer, data retrieved from the database can be displayed. Users can also input data using the user interface.
+  
   -The server layer defines how data is handled in our apps and routes it between the database and client layer.
+  
   -The server layer listens for events from the client layer and responds by executing methods that save and retrieve data from the database layer.
+  
   -The database layer stores all the data needed for your application to function.
+  
   -MongoDB stores JSON natively (technically BSON), which makes it work easily with JavaScript apps.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
