@@ -163,6 +163,6 @@ Distributed under the MIT License. See [LICENSE](./LICENSE) for more information
 For any further questions feel free to contact me via:
 - GitHub: [GitHub oliverLo78](https://github.com/oliverLo78)
 - Email: [oliverberto@gmail.com](mailto:oliverberto@gmail.com)
-- LinkedIn: [Name on LinkedIn](https://www.linkedin.com/in/oliver-lopez78/)
+- LinkedIn: [Oliver Lopez](https://www.linkedin.com/in/oliver-lopez78/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
