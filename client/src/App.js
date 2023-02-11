@@ -36,6 +36,8 @@ const client = new ApolloClient({
 
 function App() {
   return (
+    // Provides a global state allowing us to go to any child component and hook into that state
+    // What state are we providing? this client
     <ApolloProvider client={client}>
       <Router>
         <>
