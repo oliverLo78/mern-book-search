@@ -32,11 +32,11 @@ mutation saveBook($bookData: BookInput) {
       email
       savedBooks {
         bookId
-        authors
-        image
-        description
         title
+        description
+        image
         link
+        authors        
     }
   }
 }
@@ -50,11 +50,11 @@ mutation removeBook($bookId: ID!) {
       email
       savedBooks {
         bookId
-        authors
-        image
-        description
         title
+        description
+        image
         link
+        authors
     }
   }
 }
