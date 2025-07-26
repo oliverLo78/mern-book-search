@@ -57,7 +57,7 @@ const SearchBooks = () => {
     <>
       <Container fluid className="text-light bg-dark p-5">
         <Container>
-          <h1>Search for Books!</h1>
+          <h1>Search for Books in Google's API!</h1>
           
           <Form onSubmit={handleFormSubmit}>
             <Row>  {/* Changed from Form.Row to just Row */}
