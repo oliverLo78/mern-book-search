@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 
 // Connection to MongoDB
 mongoose.connect(
-  process.env.MONGODB_URI || 'mongodb://127.0.0.1:27017/mernbook',
+  process.env.MONGODB_URI || 'mongodb://127.0.0.1:27017/mern-book-search',
   {
     useNewUrlParser: true, // Recommended for compatibility
     useUnifiedTopology: true, // Use MongoDB's new connection management engine
