@@ -112,6 +112,9 @@ While building this project I learned to:
   -MERN’s three-layer architecture makes it relatively easy to debug.
   -MERN is easily scalable and a great solution for data-heavy apps.
 
+## Live Demo 
+- [link to mern-book-search](https://still-peak-05339-5ca1af3bc8e3.herokuapp.com/)
+
 ## Table of Contents
 - [Installation](#installation)
 - [Contributing](#contributing)
@@ -124,6 +127,7 @@ While building this project I learned to:
 
 
 ## Mock-Up
+
 
 Let's start by revisiting the web application's appearance and functionality.
 
